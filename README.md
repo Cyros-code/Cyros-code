@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Cyros-code
 - 👀 I’m interested in Gaming Developpement,Cybersecurity (pantesting) 
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me buraksahan7877@gmail.com
 
 <!---
