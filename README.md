@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cyros-code
-- 👀 I’m interested in Gaming Developpement,Cybersecurity (pantesting) 
+- 👀 I’m interested in Cybersecurity (pantesting) 
 - 📫 How to reach me buraksahan7877@gmail.com
 
 <!---
