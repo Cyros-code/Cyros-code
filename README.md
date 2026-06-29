@@ -38,4 +38,6 @@
 ---
 
 ### 📬 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buraksahan7877@gmail.com)
+<a href="mailto:buraksahan7877@gmail.com">
+  <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23ea4335" alt="Gmail" width="40" height="40" />
+</a>
