@@ -4,6 +4,13 @@
 - 👀 I’m interested in Cybersecurity (pantesting)
 - 📬 How to reach me: buraksahan7877@gmail.com
 
+  
+<div align="left">
+  <a href="https://github.com/ksmkayk">
+    
+  ![Stats](./profile/stats.svg)
+  
+</div>
 ---
 
 ### 📊 GitHub Stats & Languages
