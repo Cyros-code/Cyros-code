@@ -1,5 +1,7 @@
 # 🚀 Hello, I'm Cyber-Guy!
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Cyber-Guy&fontSize=50&theme=tokyonight)
+
 ### 🎯 About Me
 - 👀 I’m interested in Cybersecurity (pantesting)
 - 🛡️ **Cybersecurity Enthusiast** | Passionate about cybersecurity and ethical hacking.
