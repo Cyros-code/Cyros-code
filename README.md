@@ -16,15 +16,13 @@
 
 ### 🛠️ Tech Stack & Cyber Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
-  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="max-width: 100%;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kali/kali-original.svg" alt="Kali Linux" width="40" height="40" style="max-width: 100%;" />
+  <img src="https://img.shields.io/badge/-%20?style=flat-square&logo=wireshark&logoColor=167EE6&color=00000000" alt="Wireshark" height="40" />
+  <img src="https://img.shields.io/badge/-%20?style=flat-square&logo=metasploit&logoColor=white&color=00000000" alt="Metasploit" height="40" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buraksahan7877@gmail.com)
