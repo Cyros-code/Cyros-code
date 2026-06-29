@@ -8,8 +8,8 @@
 
 ### 📊 GitHub Stats & Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyros-code&show_icons=true&theme=tokyonight&dark=true" alt="Cyros-code's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyros-code&layout=compact&theme=tokyonight&dark=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyros-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyros-code&layout=compact&theme=tokyonight" alt="Most Used Languages" width="48%" />
 </p>
 
 ---
