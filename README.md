@@ -2,6 +2,9 @@
 
 ### 🎯 About Me
 - 👀 I’m interested in Cybersecurity (pantesting)
+- 🛡️ **Cybersecurity Enthusiast** | Passionate about cybersecurity and ethical hacking.
+- 🐣 **Beginner ** | Currently a beginner, learning the fundamentals of **Pentesting** and offensive security.
+- 🎯 **My Goal** | Understanding how vulnerabilities work to learn how to better protect systems.
 
 ---
 
